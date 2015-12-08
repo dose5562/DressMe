@@ -15,4 +15,10 @@ Other features include:
 * Tag uploaded clothes with attributes such as color, season, outerwear, accessories, and more!
 * Get recommendations of outfits based on the weather!
 
+# Building/Installation
 
+To run the Android version:
+1. git clone https://github.com/dose5562/DressMe.git
+2. Open Android Studio > Import Android Studio Project
+3. Build > Make Project
+4. Run > Run ‘DressMe’ (must set up AVD beforehand running version ≥ 1.8)
